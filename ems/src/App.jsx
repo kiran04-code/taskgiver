@@ -7,8 +7,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-   <div className='bg-zinc-800 font-bold  '>
-    <h1 className=''> kiran hello  welcome to react port  5173</h1>
+   <div className=' font-bold  '>
+    <h1 > kiran hello  welcome to react port  5173</h1>
    </div>
   )
 }
